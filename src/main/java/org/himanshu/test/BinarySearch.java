@@ -2,6 +2,7 @@ package org.himanshu.test;
 
 /**
  * Created by himanshu on 1/28/2017.
+ * Algorithm Space Time Complexity - log n
  */
 public class BinarySearch {
 
